@@ -37,11 +37,11 @@ export default function Navigation() {
       <Popover className="w-full py-4 flex items-center justify-between text-black bg-[#fcf9c8]">
         <Link className="ml-28" href="/" passHref>
           <div className="flex items-center cursor-pointer">
-            <h1 className="text-4xl font-black font-header">DevNotes</h1>
+            <h1 className="text-4xl font-black font-header">CancerD</h1>
             <p className="leading-none ml-2 text-sm font-title font-bold">
-              The Blog
+              Detect
               <br />
-              For Developers
+              The Cancer
             </p>
           </div>
         </Link>
